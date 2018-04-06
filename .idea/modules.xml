@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/userdao.iml" filepath="$PROJECT_DIR$/userdao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/portal-service.iml" filepath="$PROJECT_DIR$/portal-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/portal-service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/portal-service_main.iml" group="portal-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/portal-service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/portal-service_test.iml" group="portal-service" />
     </modules>
   </component>
 </project>
